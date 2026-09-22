@@ -5,7 +5,7 @@ Token ERC-20 yang ditulis dari nol dalam Solidity, di-deploy dan diverifikasi di
 ## 🔗 Live Links
 
 - **Contract di Etherscan:** https://sepolia.etherscan.io/address/0x88C2e42B4f752782BC81516d4b2C350c56c3777f
-- **Portfolio Page:** https://claude.ai/artifact/U1jPKVtVjMgTzLN4h21uNS
+- **Portfolio Page:** https://bjsatria7.github.io/phoenix-xp-token/
 
 ## 📋 Detail Token
 
