@@ -4,8 +4,9 @@ Token ERC-20 yang ditulis dari nol dalam Solidity, di-deploy dan diverifikasi di
 
 ## 🔗 Live Links
 
-- **Contract di Etherscan:** https://sepolia.etherscan.io/address/0x88C2e42B4f752782BC81516d4b2C350c56c3777f
 - **Portfolio Page:** https://bjsatria7.github.io/phoenix-xp-token/
+- **Source Code:** https://github.com/BJSatria7/phoenix-xp-token
+- **Bukti deployment on-chain (Etherscan):** https://sepolia.etherscan.io/token/0x88C2e42B4f752782BC81516d4b2C350c56c3777f
 
 ## 📋 Detail Token
 
@@ -18,6 +19,8 @@ Token ERC-20 yang ditulis dari nol dalam Solidity, di-deploy dan diverifikasi di
 | Decimals | 18 |
 | Jaringan | Ethereum Sepolia Testnet |
 | Contract Address | `0x88C2e42B4f752782BC81516d4b2C350c56c3777f` |
+| Holders | 1 |
+| Total Transfers | 1 (mint awal) |
 
 ## 🛠️ Tech Stack
 
